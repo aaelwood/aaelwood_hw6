@@ -1,28 +1,24 @@
-# hidden Mac file of cached metadata when Finder is used to browse folders
+# Hidden Mac files of cached metadata when Finder is used to browse folders
 .DS_Store
 
-
-#VS Code workspace file
+# VS Code workspace files
 .VSCode
 
-
-#Python dotenv file
+# Python dotenv file
 .env
 
-#Python virtual environment
+# Python virtual environment
 venv/
 
-#Python
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 
-
-#R
+# R project files
 .Rproj.user
 .Rdata
 .Rhistory
 
-
-#environment file for AWS Beanstalk
+# AWS Beanstalk environment file
 .ebextensions/environment_variables.config
