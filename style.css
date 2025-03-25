@@ -1,0 +1,53 @@
+body {
+    background-color: lightpink;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:black 
+}
+
+h2 {
+    text-align: center;
+    color:black
+}
+
+ul{
+    list-style-type: square;
+    color: blue
+
+}
+
+#schedule {
+    text-align: center;
+    color: black;
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+
+
+#schedule th {
+    background-color: pink; 
+    color: white; 
+    padding: 10px; 
+    border: 2px solid black; 
+    text-align: center;
+    box-sizing: border-box; 
+}
+
+
+#schedule td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: center; 
+    box-sizing: border-box; 
+}
+
+.course-list {
+    justify-content: center;
+    color: black;
+    list-style-type: square;
+}
