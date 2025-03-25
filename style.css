@@ -5,17 +5,17 @@ body {
 
 h1 {
     text-align: center;
-    color:black 
+    color:black; 
 }
 
 h2 {
     text-align: center;
-    color:black
+    color:black;
 }
 
 ul{
     list-style-type: square;
-    color: blue
+    color: blue;
 
 }
 
